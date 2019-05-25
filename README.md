@@ -1,3 +1,7 @@
+This is a voluntary work which describes what Python and its libraries can do to help English language teachers with little or even no programming experience. Summary is written below and you can also find its original code from the file **little_prince_visualization.ipynb** .
+
+
+----------
 Text Visualization of The Little Prince
 
 Reading novels is a fascinating but long journey. An enormous amount of text information sometimes gets readers lost. However, text visualization can take them out of the woods by revealing text content at either document level or word level.[1]  In this article, I used techniques as Summarizing a Single Document, PhraseNet, and Visualizing Sentiments and Emotions[2] to visualize my favorite novella The Little Prince.
